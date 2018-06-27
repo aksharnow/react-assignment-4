@@ -1,5 +1,3 @@
-Use the code as reference to build 
+The current project has a error, 
 
-JSON strucuture
-Paste the structure on myjson (a fake API)
-consume the API and show results on UI.
+Remove from Card and Add to Cart both increases the cart number, fix this issue.
